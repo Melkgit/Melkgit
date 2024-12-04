@@ -1,5 +1,6 @@
-# 💫 Olá sou Melquisedeque :
-◽ Desenvolvedor em constante aprendizado, explorando o universo da tecnologia.
+# 💫 Sobre mim :
+◽ Olá, sou Melquisede, um desenvolvedor front-end apaixonado por criar interfaces modernas, funcionais e intuitivas. Minha missão é transformar ideias em experiências digitais impactantes, combinando design e tecnologia para construir soluções que encantem os usuários.
+Trabalho com tecnologias como HTML, CSS, JavaScript e frameworks como React, sempre buscando as melhores práticas e tendências do desenvolvimento web. Adoro desafios que exigem criatividade e atenção aos detalhes, desde a criação de animações suaves até a otimização de desempenho.
 
 
 ## 🌐 Socials:
