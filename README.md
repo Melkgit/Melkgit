@@ -1,6 +1,7 @@
-# 💫 About Me:
-Olá
+# 💫 Olá! Eu sou Melquisedeque
+Sou um programador apaixonado por tecnologia e desenvolvimento web. Tenho 16 anos e estou focado nos estudos de front-end, onde aprendo a criar interfaces incríveis e funcionais para sites e aplicações. Sempre busco aprimorar minhas habilidades em linguagens como HTML, CSS e JavaScript, explorando também frameworks modernos como React. Estou animado com as possibilidades que o mundo da programação oferece e ansioso para crescer ainda mais nessa área. Além de estudar, gosto de compartilhar conhecimentos e trabalhar em projetos que desafiem minha criatividade e habilidades técnicas
 
+# Linguagens e Frameworks
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
   <img width="12" />
@@ -13,16 +14,16 @@ Olá
 
 ### Redes sociais:
 <div align="left">
-  <a href="https://instagram.com/seu_instagram" target="_blank">
+  <a href="https://www.instagram.com/melqui_mkz/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
   </a>
-  <a href="https://discord.com/users/seu_discord" target="_blank">
+  <a href="discord.com/channels/@Melk target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
   </a>
-  <a href="mailto:seuemail@gmail.com" target="_blank">
+  <a href="mailto:melkzedeque255@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
-  <a href="https://linkedin.com/in/seu_linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/melquisedeque-silva-ferreira-815258303/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
 </div>
@@ -38,5 +39,4 @@ Olá
 
 <br clear="both">
 
-### 🐍 Snake eating my contributions:
 ![Snake animation](https://github.com/Melkgit/Melkgit/blob/output/snake.svg)
